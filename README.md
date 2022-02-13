@@ -19,5 +19,5 @@
     <img algn="center"alt=javascript src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br/>
 
-Professor de Filosofia, apaixonado por Tecnologia e pelas transformações que ela pode impactar a vida das pessoas e organizações.
+Professor de Filosofia, apaixonado por Tecnologia e pelas transformações, assim como serviços que ela pode proporcionar para que pessoas e empresas tenham melhores desempenhos e qualidade de vida!
 
