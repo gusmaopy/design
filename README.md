@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celso-gusmao-215a8a113/)
 
-![Gusmaopy GitHub stats](https://github-readme-stats.vercel.app/api?username=gusmaopy&show_icons=true&theme=radical)
+[![Gusmaopy GitHub stats]](https://github-readme-stats.vercel.app/api?username=gusmaopy&show_icons=true&theme=radical)
 
 ### Tecnologias que utilizo no meu dia-a-dia!
 
