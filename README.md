@@ -4,14 +4,12 @@ Professor de Filosofia, apaixonado por Tecnologia e pelas transformações, assi
 
 <h1>Soft Skills</h1>
 
-<p>Sou Professor de Filosofia, sendo que atuo na área desde 03/2006! Neste período atuei em 11 Unidades Escolares na Região de Tupã/SP. Em 2014 fui designado Professor Coordenador de Núcleo Pedagógico na área de Filosofia e a minha função consistiu em dar suporte aos professores sobre as diversas didáticas e metodologias que podem ser empregadas para que o aluno bem compreenda os conceitos filosóficos.</p>
+<p>Sou Licenciado em Filosofia, sendo que atuei na rede pública estadual desde 03/2006 até 03/02/20223! Neste período atuei em 11 Unidades Escolares na Região de Tupã/SP. Em 2014 fui designado Professor Coordenador de Núcleo Pedagógico na área de Filosofia e a minha função consistiu em dar suporte aos professores sobre as diversas didáticas e metodologias que podem ser empregadas para que o aluno bem compreenda os conceitos filosóficos.</p>
 
 <p>Na Diretoria de Ensino, também atuei como Gestor responsável pelo Programa Conviva-SP, que tem como foco orientar os Diretores, Vice Diretores, Professores, Alunos, Pais e comunidade sobre a importância do aspecto emocional na convivência diária. Atuei como orientador, juntamente com a equipe de Supervisão de Ensino, junto aos Grêmios Estudantis, promovendo o engajamento dos alunos para estimular os pares sobre a importância e o comprometimento com os estudos.</p>
 
 
 <p>Atuei na Diretoria de Ensino - Região de Tupã no período compreendido entre 02/2014 a 12/2020.</p>
-
-<p>Atualmente sou Professor de Filosofia e Tecnologia para os alunos do Ensino Médio.</p>
 
 <h2>Habilidades e Competências</h2>
 <ul>
@@ -23,7 +21,7 @@ Professor de Filosofia, apaixonado por Tecnologia e pelas transformações, assi
 
 </ul>
 
-<p>Em 2019 me inscrevi em bacharelado em Ciência da Computação, pois gosto muito de lidar com abstrações filosófico-matemáticas e sempre quis fazer este curso. Por motivos de maior engajamento e determinação com as minhas habilidades, encerrei o curso de Ciência da Computação e me inscrevi no Curso de Engenharia da Computação da Universidade de Marília em maio de 2022. O meu projeto de vida é me especializar em Data Science para a resolução de situações-problemas e, para issso não estou medindo esforços e comprometimento; por meio da pós graduação em Arquitetura de Software, Data Science e Cibersecurity, dentre outros cursos técnicos que visam aprimorar as habilidades com Dados, Machine Learning e Inteligência Artificial.</p>
+<p>Em 2019 me inscrevi em bacharelado em Ciência da Computação, pois gosto muito de lidar com abstrações filosófico-matemáticas e sempre quis fazer este curso. Por motivos de maior engajamento e determinação com as minhas habilidades, encerrei o curso de Ciência da Computação e me inscrevi no Curso de Engenharia da Computação da Universidade de Marília em maio de 2022. O meu projeto de vida é me especializar em Data Science e Cybersecurity para a resolução de situações-problemas e, para issso não estou medindo esforços e comprometimento; por meio da pós graduação em Arquitetura de Software, Data Science e Cibersecurity, dentre outros cursos técnicos que visam aprimorar as habilidades com Dados, Machine Learning e Inteligência Artificial.</p>
 
 <h2>Além dos cursos de bacharelado e pós-graduação estou estudando e me especializando em:</h2>
 
